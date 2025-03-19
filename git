@@ -1,0 +1,123 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+.venv*/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Python virtual environment logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# MyPy type checking
+.mypy_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Local database and caches
+*.sqlite3
+*.db
+*.pdb
+*.pyo
+
+# Docker-relat
+
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+package-lock.json
+yarn.lock
+.env
+.env.local
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Binaries
+dist/
+build/
+.babelrc
+.next/
+.vercel/
+.out/
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# React specific
+*.cache/
+public/
+build/
+.eslintcache
+
+# Test coverage
+coverage/
+jest.config.js
+jest.setup.js
+.nyc_output/
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Misc
+*.bak
+*.zip
+*.tar
+*.tgz
+
