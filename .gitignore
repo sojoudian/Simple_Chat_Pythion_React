@@ -121,3 +121,6 @@ docker-compose.override.yml
 *.tar
 *.tgz
 
+
+
+.DS_Store
